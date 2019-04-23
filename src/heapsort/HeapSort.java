@@ -17,7 +17,7 @@ public class HeapSort {
      */
     public static void main(String[] args) {
         //Mr Kaunes code goes here
-        int[] unsorted = {1,3,6,3,5,2,9};   // getting array out of bounds exception
+        int[] unsorted = {1,3,6,3,5,2,9};  
         heap hs = new heap();
         int[] sorted = hs.sort(unsorted);
         System.out.println(sorted);
