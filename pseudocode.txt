@@ -1,7 +1,7 @@
 # heapsort
 Main:
 heap.sort(unsortedArray);
-print the values
+print(unsortedArray);
 
 heap class:
 
