@@ -1,4 +1,4 @@
-# heapsort PseudoCode:
+# heapsort
 Main:
 heap.sort(unsorted);
 print the values
@@ -18,5 +18,12 @@ heapify method:
   call swapUpwards() until the end of the array
 
 swapUpwards method:
+  check if the index below is less
+    swap these values
+    swapUpwards()
+
+checkUpwards method:
+
+   
   
   
