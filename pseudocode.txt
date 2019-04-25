@@ -37,7 +37,3 @@ swap method:
 
 sendFrontToEnd method:
   swap the value of the first index with the value of the last index
-  
-   
-  
-  
