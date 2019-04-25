@@ -1,0 +1,22 @@
+# heapsort PseudoCode:
+Main:
+heap.sort(unsorted);
+print the values
+
+heap class:
+
+sort method:
+  heapify();
+  sendFrontToEnd();
+  return the sorted array
+  
+parentIndexMethod:
+  loop through the unsorted array
+  return random parent value
+  
+heapify method:
+  call swapUpwards() until the end of the array
+
+swapUpwards method:
+  
+  
