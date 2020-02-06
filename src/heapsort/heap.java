@@ -1,11 +1,10 @@
 /*
-    Matt Ludwig
+    Matt Ludwig, Liam Deaton
     2019-04-17
 */
 
 package heapsort;
 
-// debugging courtesy of Liam Deaton
 public class heap {
     int[] unsorted;
     public int[] sort(int[] unsort){
