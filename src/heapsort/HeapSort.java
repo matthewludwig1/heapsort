@@ -1,5 +1,5 @@
 /*
-    Matt Ludwig
+    Matt Ludwig, Liam Deaton
     2019-04-23
     This class builds the heap object, which sorts an array of numbers
  */
